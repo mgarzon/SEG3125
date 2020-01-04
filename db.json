@@ -1,24 +1,14 @@
 {
-  "questions": [
-    {
-      "id": 1,
-      "answerIndex": 2,
-      "description": "What is a Heuristic Evaluation?",
-      "choices": {
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d"
-    }
-   {
-      "id": 2,
-      "answerIndex": 2,
-      "description": "What is a Heuristic Evaluation?",
-      "choices": {
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
