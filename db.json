@@ -5,8 +5,8 @@
     { "id": 3, "title": "question 3" }
   ],
   "comments": [
-    { "id": 1, "body": "this is choice a", "questionId": 1, "isCorrect": true },
-    { "id": 2, "body": "this is choice b", "questionId": 1, "isCorrect": true}
+    { "id": 1, "body": "this is choice a", "questionId": 1},
+    { "id": 2, "body": "this is choice b", "questionId": 1}
   ],
   "profile": {
     "name": "typicode"
