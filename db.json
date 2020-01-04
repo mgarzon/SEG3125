@@ -7,18 +7,5 @@
   "choices": [
     { "id": 1, "body": "this is choice a", "questionId": 1},
     { "id": 2, "body": "this is choice b", "questionId": 1}
-  ],
- "newquestions": [
-   {
-    "id": 1,
-    "answerIndex": 2,
-    "description": "What is a Heuristic Evaluation?",
-    "choices": {
-      "a": "a",
-      "b": "b",
-      "c": "c",
-      "d": "d"
-     }
-  }
-]
+  ]
 }
